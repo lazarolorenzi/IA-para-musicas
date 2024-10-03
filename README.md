@@ -108,7 +108,7 @@ O **Ollama** gerencia a execução local dos modelos de IA, garantindo eficiênc
 
 2. **Abra o terminal**
 ```bash
-#Modelo de audio#
+#Modelo de audio
 ollama run ALIENTELLIGENCE/avengineer
 #Modelo de Imagem, Video, Texto, Documentos
 ollama run minicpm-v
