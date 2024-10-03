@@ -21,16 +21,6 @@ Utilizamos o **MiniCPM-V** para leitura e compreensão de documentos. Esta funci
 
 ---
 
-## 🎶 Personalização Criativa
-
-Neste projeto, fizemos adaptações personalizadas dos modelos de IA com foco no **mundo da música**. Exploramos o potencial dos modelos para transcrição de letras, identificação de instrumentos e, personalizamos um dos modelos com foco em **música brasileira**, na tentativa de capturar as diferenças culturais e rítmicas do estilo musical brasileiro.
-
-### 🥁 Foco em Música Brasileira
-Personalizamos um dos nossos modelos com foco especial na **música brasileira**, incluindo gêneros como **samba, bossa nova, forró, MPB, sertanejo** e outros. Agora, o modelo não só reconhece instrumentos característicos desses estilos, como também captura as diferenças culturais e melódicas presentes em suas composições.
-
-### 🎧 Criatividade Musical com Alma Brasileira
-Esse modelo foi desenhado com o objetivo de **despertar a criatividade musical**. Com uma **personalidade alegre e amigável**, a IA compartilha seu vasto conhecimento sobre os gêneros brasileiros, artistas icônicos e eventos históricos que moldaram a cultura musical do país. Seja para inspirar novas composições ou para revisitar clássicos, o modelo é capaz de sugerir **letras de música, insights sobre harmonias** e até narrativas sobre o impacto da música brasileira ao longo do tempo.
-
 ## 🏛️ Arquitetura do Projeto
 
 ### 💻 Interface Web (OpenWebUI)
@@ -50,6 +40,17 @@ A interface **OpenWebUI** proporciona uma maneira intuitiva de interagir com os 
 3. **Saída**: Os resultados são exibidos diretamente na interface OpenWebUI, permitindo ao usuário visualizar, modificar ou salvar os outputs gerados.
 
 ---
+
+## 🎶 Personalização Criativa
+
+Neste projeto, fizemos adaptações personalizadas dos modelos de IA com foco no **mundo da música**. Exploramos o potencial dos modelos para transcrição de letras, identificação de instrumentos e, personalizamos um dos modelos com foco em **música brasileira**, na tentativa de capturar as diferenças culturais e rítmicas do estilo musical brasileiro.
+
+### 🥁 Foco em Música Brasileira
+Personalizamos um dos nossos modelos com foco especial na **música brasileira**, incluindo gêneros como **samba, bossa nova, forró, MPB, sertanejo** e outros. Agora, o modelo não só reconhece instrumentos característicos desses estilos, como também captura as diferenças culturais e melódicas presentes em suas composições.
+
+### 🎧 Criatividade Musical com Alma Brasileira
+Esse modelo foi desenhado com o objetivo de **despertar a criatividade musical**. Com uma **personalidade alegre e amigável**, a IA compartilha seu vasto conhecimento sobre os gêneros brasileiros, artistas icônicos e eventos históricos que moldaram a cultura musical do país. Seja para inspirar novas composições ou para revisitar clássicos, o modelo é capaz de sugerir **letras de música, insights sobre harmonias** e até narrativas sobre o impacto da música brasileira ao longo do tempo.
+
 
 ## 📘 Como Funciona o OpenWebUI
 
