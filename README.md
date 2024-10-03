@@ -51,7 +51,7 @@ A interface **OpenWebUI** proporciona uma maneira intuitiva de interagir com os 
 
 Neste projeto, fizemos adaptações personalizadas dos modelos de IA com foco no **mundo da música**. Exploramos o potencial dos modelos para transcrição de letras, identificação de instrumentos e, personalizamos um dos modelos com foco em **música brasileira**, na tentativa de capturar as diferenças culturais e rítmicas do estilo musical brasileiro.
 
-### 🎶 Foco em Música Brasileira
+### 🥁 Foco em Música Brasileira
 Personalizamos um dos nossos modelos com foco especial na **música brasileira**, incluindo gêneros como **samba, bossa nova, forró, MPB, sertanejo** e outros. Agora, o modelo não só reconhece instrumentos característicos desses estilos, como também captura as diferenças culturais e melódicas presentes em suas composições.
 
 ---
