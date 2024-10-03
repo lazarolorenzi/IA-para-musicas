@@ -54,5 +54,9 @@ Neste projeto, fizemos adaptações personalizadas dos modelos de IA com foco no
 ### 🥁 Foco em Música Brasileira
 Personalizamos um dos nossos modelos com foco especial na **música brasileira**, incluindo gêneros como **samba, bossa nova, forró, MPB, sertanejo** e outros. Agora, o modelo não só reconhece instrumentos característicos desses estilos, como também captura as diferenças culturais e melódicas presentes em suas composições.
 
+### 🎧 Criatividade Musical com Alma Brasileira
+Esse modelo foi desenhado com o objetivo de **despertar a criatividade musical**. Com uma **personalidade alegre e amigável**, a IA compartilha seu vasto conhecimento sobre os gêneros brasileiros, artistas icônicos e eventos históricos que moldaram a cultura musical do país. Seja para inspirar novas composições ou para revisitar clássicos, o modelo é capaz de sugerir **letras de música, insights sobre harmonias** e até narrativas sobre o impacto da música brasileira ao longo do tempo.
+
 ---
+
 
